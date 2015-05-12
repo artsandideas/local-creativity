@@ -1,0 +1,48 @@
+<template name="home">
+  <div class="page home">
+
+    {{>nav title='Local Creativity' black=true}}
+
+    <div class="content-scrollable">
+      <div class="bg-image home">
+        <h1 class="title-home">
+          <img src="img/app/logo-local.svg" alt="Local Market"/>
+        </h1>
+        <span class="hours"><span class="title-callout"></span>
+        Discover &amp; Fund Local Creativity</span>
+        <span class="arrow"></span>
+      </div>
+
+      <div class="callout-news">
+        <span class="title-callout">News</span>
+        {{latestNews.text}}
+      </div>
+
+      <h2 class="list-title">This Week's Arts &amp; Ideas</h2>
+      <div class="list-subtitle">Hand-picked by A&amp;I Curators</div>
+      <div class="list-recipes">
+        {{#each featuredRecipes}}
+          {{> recipeItem recipe=this size='small'}}
+        {{/each}}
+      </div>
+
+      <a href="{{pathFor 'recipes'}}" class="btn-primary">More Local Arts &amp; Ideas ></a>
+
+      <h2 class="list-title">The Creative Feed</h2>
+      <div class="list-subtitle">Share and fund local creativity.</div>
+      <div class="list-activities">
+        {{#each activities}}
+          {{> activity}}
+        {{else}}
+          <div class="wrapper-message">
+            <div class="title-message">Share what you have created!</div>
+            <div class="subtitle-message">Share your Arts &amp; Ideas and they will show up here.</div>
+          </div>
+        {{/each}}
+      </div>
+      <a href="{{pathFor 'feed'}}" class="btn-primary">The Whole Creative Feed</a>
+
+    </div>
+
+  </div>
+</template>
