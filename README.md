@@ -1,7 +1,7 @@
 Local Creativity
 ============
 
-Local Creativity is a modification of an open source Local Market app powered by Meteor and made by [Percolate Studio](http://percolatestudio.com). This extension of Local Market was modified by Arts &amp; Ideas studio:
+Local Creativity is a modification by Arts &amp; Ideas studio of an open source Local Market app powered by Meteor and made by [Percolate Studio](http://percolatestudio.com).
 
   - Using a sample database to generate lists and items
   - Integrating OAUTH with Meteor's accounts-ui package
@@ -10,7 +10,7 @@ Local Creativity is a modification of an open source Local Market app powered by
 
 ===========
 
-In addition to modifying the design and adding to the functionality, Arts &amp; Ideas is integrating
+In addition to modifying the design and adding to the functionality, Arts &amp; Ideas is integrating:
   – Google Spreadsheets -> MongoDB through Zapier
   – Stripe Checkout
   – Democracy OS Voting
