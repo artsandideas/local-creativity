@@ -10,12 +10,13 @@ Local Creativity is a modification by Arts &amp; Ideas studio of an open source 
 
 ===========
 
-In addition to modifying the design and adding to the functionality, Arts &amp; Ideas is integrating:
-  – Google Spreadsheets -> MongoDB through Zapier
-  – Stripe Checkout
-  – Democracy OS Voting
-  – Famono for (some) Famous 3D physics UI additions
-  – Location/maps
+In addition to modifying the design and adding to the functionality, Arts &amp; Ideas is integrating.
+
+  - Google Spreadsheets -> MongoDB through Zapier
+  - Stripe Checkout for micro-funding
+  - Famono for (some) Famous 3D physics UI additions
+  - Location/maps
+
 
 ===========
 
