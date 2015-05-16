@@ -10,7 +10,7 @@ Local Creativity is a modification by Arts &amp; Ideas studio of an open source 
 
 ===========
 
-In addition to modifying the design and adding to the functionality, Arts &amp; Ideas is integrating.
+In addition to modifying the design, Arts &amp; Ideas is adding to the functionality by integrating.
 
   - Google Spreadsheets -> MongoDB through Zapier
   - Stripe Checkout for micro-funding
