@@ -13,7 +13,7 @@ Arts &amp; Ideas is adding:
 
   - Google Spreadsheets -> MongoDB through Zapier
   - Stripe Checkout for micro-funding
-  - Famono for (some) Famous 3D physics UI additions
+  - Famous Views for (some) Famous 3D physics UI additions
   - Location/maps
 
 The final, open-source app will allow anyone to share, fund and vote on local creativity.
