@@ -8,7 +8,7 @@ Local Creativity is a modification by Arts &amp; Ideas studio of an open source 
   - Cordova integration to use device phone and GPS
   - Mobile UI & UX
 
-Arts &amp; Ideas is integrating.
+Arts &amp; Ideas is adding:
 ============
 
   - Google Spreadsheets -> MongoDB through Zapier
