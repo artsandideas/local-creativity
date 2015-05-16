@@ -9,7 +9,6 @@ Local Creativity is a modification by Arts &amp; Ideas studio of an open source 
   - Mobile UI & UX
 
 ===========
-
 In addition to modifying the design, Arts &amp; Ideas is adding to the functionality by integrating.
 
   - Google Spreadsheets -> MongoDB through Zapier
@@ -19,7 +18,6 @@ In addition to modifying the design, Arts &amp; Ideas is adding to the functiona
 
 
 ===========
-
 The result will be an opensource, public domain app which allows anyone to publish, discover, fund and vote on local creativity and creative initiatives.
 
   
