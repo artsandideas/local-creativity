@@ -16,7 +16,7 @@ Arts &amp; Ideas is integrating.
   - Famono for (some) Famous 3D physics UI additions
   - Location/maps
 
-The resulting, open-source app will allows anyone to share, fund and vote on local creativity.
+The final, open-source app will allow anyone to share, fund and vote on local creativity.
 ===========
 
 
