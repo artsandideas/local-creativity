@@ -16,7 +16,7 @@ Arts &amp; Ideas is adding:
   - Famous Views for (a little bit of) Famous 3D physics UI additions
   - Location/maps
 
-The final, open-source app will allow anyone to share, fund and vote on local creativity.
+With Local 'Creativity' people will know and fund local creativity.
 ===========
 
 
