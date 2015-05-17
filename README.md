@@ -1,4 +1,4 @@
-Local Creativity
+'Local Creativity'
 ============
 
 Local Creativity is a modification by Arts &amp; Ideas studio of an open source [Local Market](https://github.com/meteor/meteor/tree/master/examples/localmarket) app powered by Meteor and made by [Percolate Studio](http://percolatestudio.com).
@@ -16,7 +16,7 @@ Arts &amp; Ideas is adding:
   - Famous Views for (a little bit of) Famous 3D physics UI additions
   - Location/maps
 
-With Local 'Creativity' people will know and fund local creativity.
+With 'Local Creativity' people will know and fund local creativity.
 ===========
 
 
