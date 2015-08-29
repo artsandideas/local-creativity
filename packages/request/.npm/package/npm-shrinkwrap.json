@@ -10,7 +10,7 @@
               "version": "1.0.33",
               "dependencies": {
                 "core-util-is": {
-                  "version": "1.0.1"
+                  "version": "http://registry.npmjs.org/core-util-is/-/core-util-is-1.0.1.tgz"
                 },
                 "isarray": {
                   "version": "0.0.1"
@@ -100,7 +100,7 @@
           }
         },
         "aws-sign2": {
-          "version": "0.5.0"
+          "version": "http://registry.npmjs.org/aws-sign2/-/aws-sign2-0.5.0.tgz"
         },
         "stringstream": {
           "version": "0.0.4"
