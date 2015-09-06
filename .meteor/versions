@@ -21,6 +21,7 @@ deps@1.0.7
 ejson@1.0.6
 email@1.0.6
 fastclick@1.0.3
+fourseven:scss@3.2.0
 gadicohen:famous-views@0.2.2
 geojson-utils@1.0.3
 grove:stripe-checkout@0.0.1
@@ -48,6 +49,9 @@ mdg:geolocation@1.0.3
 meteor@1.1.6
 meteor-platform@1.2.2
 meteorhacks:cluster@1.6.9
+meteoric:ionic@0.1.7
+meteoric:ionic-sass@0.3.0
+meteoric:ionicons-sass@0.1.7
 meteortoys:toykit@0.8.7
 minifiers@1.1.5
 minimongo@1.0.8
@@ -63,6 +67,7 @@ oauth@1.1.4
 oauth1@1.1.4
 observe-sequence@1.0.6
 ordered-dict@1.0.3
+pcjpcj2:ratchet@2.0.2
 percolate:velocityjs@1.2.1_1
 percolate:wireframing@0.2.0
 pierreeric:cssc@1.0.4
